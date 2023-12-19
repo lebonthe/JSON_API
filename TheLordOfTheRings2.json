@@ -1,0 +1,35 @@
+{
+  "title": "魔戒首部曲：魔戒現身",
+  "author": "J.R.R. 托爾金",
+  "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+  "publicationYear": 1954,
+  "translator": "朱學恆",
+  "publisher": "聯經出版公司",
+  "genre": "奇幻文學",
+  "rating": 9.5,
+  "plotSummary": "描述哈比人佛羅多被委以重任，攜帶具有強大邪惡力量的魔戒，前往末日火山將其銷毀。途中他受到多方力量的攻擊與誘惑，並與一群夥伴共同對抗邪惡勢力。",
+  "significance": "本作為現代奇幻小說奠基之作，對後世文學與流行文化影響深遠。",
+  "mainSettings": ["中土大陸", "夏爾"],
+  "mainCharacters": [
+    {
+      "name": "佛羅多·巴金斯",
+      "role": "主角",
+      "race": "哈比人"
+    },
+    {
+      "name": "甘道夫",
+      "role": "導師",
+      "race": "巫師"
+    },
+    {
+      "name": "亞拉岡",
+      "role": "同盟成員",
+      "race": "人類"
+    },
+    {
+      "name": "勒苟拉斯",
+      "role": "同盟成員",
+      "race": "精靈"
+    }
+  ]
+}
