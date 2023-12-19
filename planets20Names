@@ -1,0 +1,24 @@
+{
+  "planetNames": [
+    {"name": "Zorion"},
+    {"name": "Vestrana"},
+    {"name": "Ecliptor"},
+    {"name": "Mythara"},
+    {"name": "Quarvix"},
+    {"name": "Galanor"},
+    {"name": "Thryxus"},
+    {"name": "Vexara"},
+    {"name": "Orionex"},
+    {"name": "Sylvaria"},
+    {"name": "Draxonar"},
+    {"name": "Kryptara"},
+    {"name": "Nebulox"},
+    {"name": "Zentauri"},
+    {"name": "Xantheon"},
+    {"name": "Oblivara"},
+    {"name": "Terralux"},
+    {"name": "Aurixis"},
+    {"name": "Celestara"},
+    {"name": "Phantomar"}
+  ]
+}
