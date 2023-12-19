@@ -1,0 +1,28 @@
+{
+  "countryName": "捷克共和國",
+  "capital": "布拉格",
+  "government": {
+    "system": "議會民主共和制",
+    "currentHead": "彼得·費亞拉"
+  },
+  "geography": {
+    "location": "中歐",
+    "area": "78,866 平方公里",
+    "climate": {
+      "type": "溫帶大陸性氣候",
+      "features": {
+        "summer": "溫暖",
+        "winter": "寒冷",
+        "precipitation": "均勻分布全年"
+      }
+    }
+  },
+  "culture": {
+    "languages": ["捷克語"],
+    "cuisine": {
+      "characteristics": "肉類與醬汁為主，常搭配麵包或土豆",
+      "popularDishes": ["燉牛肉", "炸豬排", "捷克餃子"]
+    },
+    "festivals": ["布拉格春季音樂節", "卡洛維瓦利電影節", "布拉格國際爵士節"]
+  }
+}
