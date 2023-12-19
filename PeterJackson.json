@@ -1,0 +1,30 @@
+{
+  "name": "彼得·傑克森",
+  "birthDate": "1961-10-31",
+  "birthPlace": "紐西蘭普克拉海灣",
+  "profession": "電影導演、編劇、製片人",
+  "notableDirectingWorks": [
+    "宇宙怪客",
+    "夢幻天堂",
+    "神通鬼大",
+    "魔戒首部曲：魔戒現身",
+    "魔戒二部曲：雙城奇謀",
+    "魔戒三部曲：王者再臨",
+    "金剛",
+    "蘇西的世界",
+    "哈比人：意外旅程",
+    "哈比人：荒谷惡龍",
+    "哈比人：五軍之戰"
+  ],
+  "achievements": {
+    "oscarAwards": {
+      "bestDirector": ["魔戒三部曲：王者再臨"],
+      "total": 3
+    }
+  },
+  "personalLife": {
+    "spouse": "法蘭·華許",
+    "children": 2
+  },
+  "charityWork": "對家鄉進行多項捐贈和支持"
+}
