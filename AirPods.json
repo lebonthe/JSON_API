@@ -1,0 +1,69 @@
+{
+  "latestAirPods": [
+    {
+      "model": "AirPods 第 3 代",
+      "releaseYear": 2021,
+      "specifications": {
+        "chip": "H1",
+        "batteryLife": "6 小時",
+        "waterResistance": "是"
+      },
+      "features": {
+        "design": "全新輕巧入耳設計",
+        "audioTechnology": ["支持空間音訊", "動態頭部追蹤", "適應性均衡"]
+      }
+    },
+    {
+      "model": "AirPods Pro",
+      "releaseYear": 2019,
+      "specifications": {
+        "chip": "H1",
+        "batteryLife": "4.5 小時",
+        "waterResistance": "是"
+      },
+      "features": {
+        "design": "定制型矽膠耳塞",
+        "audioTechnology": ["主動降噪", "透明模式"]
+      }
+    },
+    {
+      "model": "AirPods 第 2 代",
+      "releaseYear": 2019,
+      "specifications": {
+        "chip": "H1",
+        "batteryLife": "5 小時",
+        "waterResistance": "否"
+      },
+      "features": {
+        "design": "經典入耳式",
+        "audioTechnology": ["「嘿 Siri」語音激活"]
+      }
+    },
+    {
+      "model": "AirPods (1st generation)",
+      "releaseYear": 2016,
+      "specifications": {
+        "chip": "W1",
+        "batteryLife": "5 小時",
+        "waterResistance": "否"
+      },
+      "features": {
+        "design": "原始入耳式",
+        "audioTechnology": ["自動連接裝置", "雙擊激活 Siri"]
+      }
+    },
+    {
+      "model": "AirPods Max",
+      "releaseYear": 2020,
+      "specifications": {
+        "chip": "H1",
+        "batteryLife": "20 小時",
+        "waterResistance": "否"
+      },
+      "features": {
+        "design": "頭戴式耳機",
+        "audioTechnology": ["高保真音質", "主動降噪", "透明模式", "空間音訊"]
+      }
+    }
+  ]
+}
