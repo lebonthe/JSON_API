@@ -35,7 +35,7 @@
             {"name": "橙果紅茶", "info": {"M": "$60", "L": "$70", "description": "香橙柑橘與莓果堆疊甘醇熟成沁入喉間", "hotAvailable": true}},
             {"name": "莓果春芽", "info": {"M": "$60", "L": "$70", "description": "莓果與綠茶的初戀般酸甜滋味", "hotAvailable": true}}
         ]
-    }
+    },
    {
         "category": "雲蓋 Sweet Cream Cold Foam",
         "drinks": [
