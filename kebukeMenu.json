@@ -59,7 +59,7 @@
     },
     {
         "category": "加料",
-        "toppings": [
+        "topping": [
             {"name": "無", "price": "$0"},
             {"name": "加白玉", "price": "$10"},
             {"name": "加水玉", "price": "$10"},
