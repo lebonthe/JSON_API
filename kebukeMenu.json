@@ -16,7 +16,7 @@
             {"name": "胭脂紅茶", "info": {"M": "$45", "L": "$50", "description": "絲絨般果香調與一抹蜜桃風味", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/胭脂紅茶.jpg"},
             {"name": "金蜜紅茶", "info": {"M": "$50", "L": "$60", "description": "舌尖上的蜂蜜尾韻與經典熟成的香氣", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金蜜紅茶.jpg"},
             {"name": "春芽綠茶", "info": {"M": "$35", "L": "$40", "description": "春滿四溢的青翠綠茶", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/春芽綠茶.jpg"},
-            {"name": "金蜜紅茶", "info": {"M": "$35", "L": "$40", "description": "古法熬煮而成清沁滑順冬瓜露", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金蜜紅茶.jpg"},
+            {"name": "雪花冷露", "info": {"M": "$35", "L": "$40", "description": "古法熬煮而成清沁滑順冬瓜露", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金蜜紅茶.jpg"},
             {"name": "熟成冷露", "info": {"M": "$35", "L": "$40", "description": "經典紅茶與古法熬煮冬瓜露", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/熟成冷露.jpg"},
             {"name": "春芽冷露", "info": {"M": "$35", "L": "$40", "description": "青翠綠茶與古法熬煮冬瓜露", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/春芽冷露.jpg"}
         ]
