@@ -29,7 +29,7 @@
             {"name": "胭脂多多", "info": {"M": "$50", "L": "$60", "description": "兒時記憶裡的多多碰上熟後的蜜桃風味", "hotAvailable": false}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/胭脂多多.jpg"},
             {"name": "金蜜檸果", "info": {"M": "$50", "L": "$60", "description": "清爽酸甜的蜂蜜與鮮切檸檬", "hotAvailable": false}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金蜜檸果.jpg"},
             {"name": "金檸熟成", "info": {"M": "$60", "L": "$70", "description": "經典熟成與整顆檸檬帶上清甜蜂蜜的尾韻", "hotAvailable": false}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金檸熟成.jpg"},
-            {"name": "金檸春芽", "info": {"M": "$60", "L": "$70", "description": "蜂蜜檸檬清新酸甜氣息而後帶上青翠茶韻", "hotAvailable": false}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/金檸春芽.jpg"},
+            {"name": "金檸春芽", "info": {"M": "$60", "L": "$70", "description": "蜂蜜檸檬清新酸甜氣息而後帶上青翠茶韻", "hotAvailable": false}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/%E9%87%91%E6%AA%B8%E6%98%A5%E8%8A%BD.jpeg"},
             {"name": "桑檸熟成", "info": {"M": "$60", "L": "$70", "description": "桑椹莓果與經典熟成的邂逅", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/桑檸熟成.jpg"},
             {"name": "柚果紅茶", "info": {"M": "$60", "L": "$70", "description": "清新文旦柚與莓果的甘甜滋味", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/柚果紅茶.jpg"},
             {"name": "橙果紅茶", "info": {"M": "$60", "L": "$70", "description": "香橙柑橘與莓果堆疊甘醇熟成沁入喉間", "hotAvailable": true}, "picUrl": "https://raw.githubusercontent.com/lebonthe/JSON_API/main/橙果紅茶.jpg"},
